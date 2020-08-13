@@ -1,4 +1,4 @@
 def nyc_pigeon_organizer(data)
-  result = data.each_with_objecy({}) do |key, value, acc|
-    acc[key] = value
+  pigeon_info = {}
+  data.each do |
 end
