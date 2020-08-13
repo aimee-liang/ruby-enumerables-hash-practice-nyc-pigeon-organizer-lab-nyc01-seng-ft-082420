@@ -5,4 +5,6 @@ def nyc_pigeon_organizer(data)
       all_names.each do |stats|
         if pigeon_info[name] == nil 
           pigeon_info[name] = {}
+        end
+        
 end
