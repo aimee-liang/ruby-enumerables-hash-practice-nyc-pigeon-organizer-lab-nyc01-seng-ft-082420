@@ -1,4 +1,5 @@
 def nyc_pigeon_organizer(data)
   pigeon_info = {}
-  data.each do |color_gender_lives, 
+  data.each do |color_gender_lives, value|
+    
 end
